@@ -1,4 +1,5 @@
 # Machine-Learning-tests
-Here are the various projects I do and did in machine learning
+Here are some old beginner projects I did on ML
 
 The Folder CIFAR Analysis contains the latest files. 
+
